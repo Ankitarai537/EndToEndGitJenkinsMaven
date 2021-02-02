@@ -10,6 +10,7 @@ public class demotest {
 		//hello India
 		System.out.println("sum");
 		System.out.println("I am a discodancer");
+		System.out.println("Hey u");
 	}
 	
 	@Test
